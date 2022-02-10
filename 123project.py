@@ -1,4 +1,4 @@
-#Importing all the important models and install them if not installed on your device
+#Importing all the important models
 import cv2
 import numpy as np
 import pandas as pd
